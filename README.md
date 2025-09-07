@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hello world! I'm Akash M Athreyas 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+It's+Akash+here!;I'm+a+passionate+learner;I+love+creating+innovative+solutions;Currently+focused+on+AI/ML+and...+Cloud+Computing!;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
