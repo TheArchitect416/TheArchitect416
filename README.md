@@ -1,7 +1,7 @@
 # Hi there, I'm [Your Name] 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+It's+Akash+here!;I'm+a+passionate+learner;I+love+creating+innovative+solutions+focused+on+AIML;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+It's+Akash+here!;I'm+a+passionate+learner;I+love+creating+innovative+solutions;Currently+focused+on+AI/ML+and...+Cloud+Computing!;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -29,9 +29,16 @@
 </div>
 
 ### 📊 Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+
+### 💻 Workspace Setup
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
+[![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white)](#)
+[![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#)
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -49,7 +56,10 @@
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
+[![AWS Lambda](https://custom-icon-badges.demolab.com/badge/AWS%20Lambda-%23FF9900.svg?logo=aws-lambda&logoColor=white)](#)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
+[![Oracle Cloud](https://custom-icon-badges.demolab.com/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white)](#)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
@@ -119,7 +129,7 @@ Currently updating and deploying...
 ```text
 OS          : Windows 10/11 / Ubuntu 20.04
 Editor      : VS Code, IntelliJ Idea
-Browser     : Chrome, Brave, Comet(still adapting)
+Browser     : Chrome, Brave, Perplexity/Comet(still adapting)
 ```
 
 ---
@@ -129,14 +139,7 @@ Browser     : Chrome, Brave, Comet(still adapting)
 ```
     ╔══════════════════════════════════════╗
     ║             Welcome to               ║
-    ║         Akash's Profile              ║
-    ║                                      ║
-    ║    ┌─┐┬─┐┌─┐┌─┐┌┬┐┌─┐  ┌─┐┌─┐┌┬┐┌─┐  ║
-    ║    │  ├┬┘├┤ ├─┤ │ ├┤   │  │ │ ││├┤   ║
-    ║    └─┘┴└─└─┘┴ ┴ ┴ └─┘  └─┘└─┘┴┘┘└─┘  ║
-    ║             ┌─┐┌─┐┌─┐┌─┐┬┌─┐┌┐┌      ║
-    ║             ├─┘├─┤└─┐└─┐││ ││││      ║
-    ║             ┴  ┴ ┴└─┘└─┘┴└─┘┘└┘      ║
+    ║           Akash's Profile            ║
     ╚══════════════════════════════════════╝
 ```
 
