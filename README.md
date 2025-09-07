@@ -123,7 +123,7 @@ Currently updating and deploying...
 
 ## 💻 Workspace Setup
 
-```text
+```
 OS          : Windows 10/11 / Ubuntu 20.04
 Editor      : VS Code, IntelliJ IDEA
 Browser     : Chrome, Brave, Perplexity/Comet(still adapting)
