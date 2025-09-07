@@ -1,12 +1,12 @@
 # Hi there, I'm [Your Name] 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+It's+[Your+Name]+here!;I'm+a+passionate+Full-Stack+Developer;I+love+creating+innovative+solutions;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+It's+Akash+here!;I'm+a+passionate+learner;I+love+creating+innovative+solutions+focused+on+AIML;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Badge" />
+  <img src="https://komarev.com/ghpvc/?username=TheArchitect416&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/TheArchitect416?label=Followers&style=social" alt="GitHub Badge" />
 </div>
 
 ---
