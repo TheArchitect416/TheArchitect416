@@ -104,24 +104,50 @@ Currently updating and deploying...
 
 ---
 
+## 📚 Akash's Bookshelf: Favorite
 
+<div align="center">
+
+| | **Book** | **Rating** |
+|:---:|:---|:---:|
+| [![A Confession](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348237118l/26244._SX50_.jpg)](https://www.goodreads.com/review/show/7898413617) | **[A Confession](https://www.goodreads.com/review/show/7898413617)**<br>*by [Leo Tolstoy](https://www.goodreads.com/author/show/128382.Leo_Tolstoy)*<br><sub>tagged: favorite</sub> | ⭐⭐⭐⭐⭐ |
+| [![Poems for the Lost Because I'm Lost Too](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1669939508l/63905047._SY75_.jpg)](https://www.goodreads.com/review/show/7898402118) | **[Poems for the Lost Because I'm Lost Too](https://www.goodreads.com/review/show/7898402118)**<br>*by [Exurb1a](https://www.goodreads.com/author/show/15241440.Exurb1a)*<br><sub>tagged: favorite</sub> | ⭐⭐⭐⭐⭐ |
+| [![A Stranger to Myself](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312013221l/115133._SX50_.jpg)](https://www.goodreads.com/review/show/7898400811) | **[A Stranger to Myself: The Inhumanity of War: Russia, 1941-1944](https://www.goodreads.com/review/show/7898400811)**<br>*by [Willy Peter Reese](https://www.goodreads.com/author/show/66694.Willy_Peter_Reese)*<br><sub>tagged: favorite</sub> | ⭐⭐⭐⭐⭐ |
+| [![The Sorrows of Young Werther](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386920896l/16640._SY75_.jpg)](https://www.goodreads.com/review/show/7898397117) | **[The Sorrows of Young Werther](https://www.goodreads.com/review/show/7898397117)**<br>*by [Johann Wolfgang von Goethe](https://www.goodreads.com/author/show/285217.Johann_Wolfgang_von_Goethe)*<br><sub>tagged: favorite</sub> | ⭐⭐⭐⭐⭐ |
+
+</div>
+
+<div align="center">
+  <a href="https://www.goodreads.com/user/show/193670804-akash-athreyas">
+    <img src="https://s.gr-assets.com/images/widget/widget_logo.gif" alt="goodreads.com" />
+  </a>
+</div>
+
+<div align="center">
+  <em>Share <a href="https://www.goodreads.com/">book reviews</a> and ratings with Akash, and even join a <a href="https://www.goodreads.com/group">book club</a> on Goodreads.</em>
+</div>
 
 
 ---
 
 ## 📫 Connect with Me
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/akash-m-athreyas-1b0556257/"
+  <a href="https://www.linkedin.com/in/akash-m-athreyas-1b0556257/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/TheArchitect416">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://instagram.com/akash.m.athreyas">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  <a href="https://open.spotify.com/user/3wbvd1d65wqhgfb67ctdfp7hd?si=4gz3E1xWRDiMQJto3KFrJQ">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+  </a>
   <a href="mailto:akashathreyas@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-
+</div>
 ---
 
 ## 💻 Workspace Setup
@@ -138,8 +164,8 @@ Tools       : Docker, Postman, Figma, Git\
 
 ```
     ╔══════════════════════════════════════╗
-    ║             Welcome to               ║
-    ║           Akash's Profile            ║
+    ║               Have a                 ║
+    ║             Great Day!               ║
     ╚══════════════════════════════════════╝
 ```
 
