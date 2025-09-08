@@ -118,7 +118,7 @@ Currently updating and deploying...
 </div>
 
 <div align="center">
-  <a href="https://www.goodreads.com/user/show/193670804-akash-athreyas">
+  <a href="https://www.goodreads.com/">
     <img src="https://s.gr-assets.com/images/widget/widget_logo.gif" alt="goodreads.com" />
   </a>
 </div>
