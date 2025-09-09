@@ -160,14 +160,13 @@ Tools       : Docker, AWS, GCP, Notion, Git
 ---
 
 ## 🎨 ASCII Art
-<div align="center">
-```text
+```
     ╔══════════════════════════════════════╗
     ║               Have a                 ║
     ║             Great Day!               ║
     ╚══════════════════════════════════════╝
 ```
-</div>
+
 ---
 
 <div align="center">
