@@ -159,13 +159,7 @@ Tools       : Docker, AWS, GCP, Notion, Git
 
 ---
 
-## 🎨 ASCII Art
-```
-    ╔══════════════════════════════════════╗
-    ║               Have a                 ║
-    ║             Great Day!               ║
-    ╚══════════════════════════════════════╝
-```
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
 
@@ -191,6 +185,10 @@ Tools       : Docker, AWS, GCP, Notion, Git
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheArchitect416&theme=github_dark&utcOffset=8" alt="Productive Time">
 
 </details>
+
+---
+
+![Eugene's Coder GIF](https://wsrv.nl/?url=https://i.giphy.com/ZVik7pBtu9dNS.webp&output=gif&n=-1)
 
 ---
 
