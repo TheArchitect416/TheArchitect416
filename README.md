@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+It's+Akash+here!;I'm+a+passionate+learner;I+love+creating+innovative+solutions;Focusing+on+AI/ML+and...+Cloud+Computing!;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+It's+Akash+here!;I'm+a+passionate+learner;I+love+creating+innovative+solutions;Focusing+on+AI%2FML+and...+Cloud+Computing!;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -9,128 +9,101 @@
 
 ---
 
+<div align="center">
+  
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **VidyaSarathi**, **Quantrol** and many more...
-- 🌱 I'm currently learning **AWS**, **Java Fundamentals**
-- 🤔 I'm looking for help with **improving my efficiency with DSA**
-- 💬 Ask me about **Python, ML, Genrative AI**.
-- 📫 How to reach me: **akashathreyas@gmail.com**
-- ⚡ Fun fact: **You can find my poetry here** [@poems.with.akash](https://www.instagram.com/poems.with.akash)
+> *"Architecting solutions, one line of code at a time."*
+
+</div>
+
+- 🔭 I'm currently developing **VidyaSarathi** and **Quantrol**.
+- 🌱 I'm deep-diving into **AWS Cloud Architecture** and **Java Fundamentals**.
+- 🧠 I'm interested in **Generative AI, LLMs, and Machine Learning**.
+- 🤔 I'm looking for collaboration on **DSA efficiency** and **System Design**.
+- ⚡ **Fun fact:** When I'm not coding, I write poetry. Check it out at **[@poems.with.akash](https://www.instagram.com/poems.with.akash)**.
+- 📫 Reach me at: **[akashathreyas@gmail.com](mailto:akashathreyas@gmail.com)**
 
 ---
 
 ## 🛠️ Languages and Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,ts,react,nodejs,express,mongodb,postgresql,git,kubernetes,aws&perline=10" />
-</div>
 
-### 📊 Programming Languages
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
-[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+| **Domain** | **Technologies** |
+|:---:|:---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) |
+| **IDEs & Tools** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) |
 
-### 💻 Workspace Setup
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
-[![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white)](#)
-[![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#)
-[![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### ☁️ Cloud & DevOps
-[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
-[![AWS Lambda](https://custom-icon-badges.demolab.com/badge/AWS%20Lambda-%23FF9900.svg?logo=aws-lambda&logoColor=white)](#)
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
-[![Oracle Cloud](https://custom-icon-badges.demolab.com/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white)](#)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheArchitect416&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheArchitect416&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheArchitect416&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TheArchitect416&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📊 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheArchitect416&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
 
 ## 🎯 Featured Projects
 
-Currently updating and deploying...
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/TheArchitect416/TheArchitect416/output/snake.svg" alt="Snake animation" />
-</div>
+| Project | Description | Tech Stack |
+|:---|:---|:---|
+| **VidyaSarathi** | *Current Focus.* A comprehensive educational platform/engine. | `Next.js` `AI/ML` |
+| **Quantrol** | *Current Focus.* A tool for quantitative analysis and control. | `Python` `Data` |
+| **Project 3** | *Loading...* working on deploying innovative solutions. | `Cloud` `AWS` |
 
 ---
 
-## 📚 Akash's Bookshelf: Favorite
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TheArchitect416&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <br/><br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=TheArchitect416&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheArchitect416&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheArchitect416&theme=tokyonight&hide_border=true&layout=compact" height="180" alt="Top Languages" />
+</div>
+
+### 🐍 Contribution History
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TheArchitect416/TheArchitect416/output/snake.svg" alt="Snake animation" width="100%" />
+</div>
+
+<details>
+<summary>⚡ <strong>Expand for Detailed Metrics</strong></summary>
+<br/>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheArchitect416&theme=github_dark" alt="Profile Details">
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheArchitect416&theme=github_dark&utcOffset=8" alt="Productive Time">
+</div>
+</details>
+
+---
+
+## 📚 Akash's Bookshelf
 
 <div align="center">
 
 | | **Book** | **Rating** |
 |:---:|:---|:---:|
-| [![A Confession](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348237118l/26244._SX50_.jpg)](https://www.goodreads.com/review/show/7898413617) | **[A Confession](https://www.goodreads.com/review/show/7898413617)**<br>*by [Leo Tolstoy](https://www.goodreads.com/author/show/128382.Leo_Tolstoy)*<br><sub>tagged: favorite</sub> | ⭐⭐⭐⭐⭐ |
-| [![Poems for the Lost Because I'm Lost Too](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1669939508l/63905047._SY75_.jpg)](https://www.goodreads.com/review/show/7898402118) | **[Poems for the Lost Because I'm Lost Too](https://www.goodreads.com/review/show/7898402118)**<br>*by [Exurb1a](https://www.goodreads.com/author/show/15241440.Exurb1a)*<br><sub>tagged: favorite</sub> | ⭐⭐⭐⭐⭐ |
-| [![A Stranger to Myself](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312013221l/115133._SX50_.jpg)](https://www.goodreads.com/review/show/7898400811) | **[A Stranger to Myself: The Inhumanity of War: Russia, 1941-1944](https://www.goodreads.com/review/show/7898400811)**<br>*by [Willy Peter Reese](https://www.goodreads.com/author/show/66694.Willy_Peter_Reese)*<br><sub>tagged: favorite</sub> | ⭐⭐⭐⭐⭐ |
-| [![The Sorrows of Young Werther](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386920896l/16640._SY75_.jpg)](https://www.goodreads.com/review/show/7898397117) | **[The Sorrows of Young Werther](https://www.goodreads.com/review/show/7898397117)**<br>*by [Johann Wolfgang von Goethe](https://www.goodreads.com/author/show/285217.Johann_Wolfgang_von_Goethe)*<br><sub>tagged: favorite</sub> | ⭐⭐⭐⭐⭐ |
+| [![A Confession](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348237118l/26244._SX50_.jpg)](https://www.goodreads.com/review/show/7898413617) | **[A Confession](https://www.goodreads.com/review/show/7898413617)**<br>*by [Leo Tolstoy](https://www.goodreads.com/author/show/128382.Leo_Tolstoy)* | ⭐⭐⭐⭐⭐ |
+| [![Poems for the Lost](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1669939508l/63905047._SY75_.jpg)](https://www.goodreads.com/review/show/7898402118) | **[Poems for the Lost...](https://www.goodreads.com/review/show/7898402118)**<br>*by [Exurb1a](https://www.goodreads.com/author/show/15241440.Exurb1a)* | ⭐⭐⭐⭐⭐ |
+| [![The Sorrows of Young Werther](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386920896l/16640._SY75_.jpg)](https://www.goodreads.com/review/show/7898397117) | **[The Sorrows of Young Werther](https://www.goodreads.com/review/show/7898397117)**<br>*by [Goethe](https://www.goodreads.com/author/show/285217.Johann_Wolfgang_von_Goethe)* | ⭐⭐⭐⭐⭐ |
+
+<a href="https://www.goodreads.com/">
+  <img src="https://s.gr-assets.com/images/widget/widget_logo.gif" alt="goodreads.com" />
+</a>
 
 </div>
-
-<div align="center">
-  <a href="https://www.goodreads.com/">
-    <img src="https://s.gr-assets.com/images/widget/widget_logo.gif" alt="goodreads.com" />
-  </a>
-</div>
-
-<div align="center">
-  <em>Share <a href="https://www.goodreads.com/">book reviews</a> and ratings with Akash, and even join a <a href="https://www.goodreads.com/group">book club</a> on Goodreads.</em>
-</div>
-
 
 ---
 
 ## 📫 Connect with Me
+
 <div align="center">
   <a href="https://www.linkedin.com/in/akash-m-athreyas-1b0556257/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -141,58 +114,20 @@ Currently updating and deploying...
   <a href="https://instagram.com/akash.m.athreyas">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://open.spotify.com/user/3wbvd1d65wqhgfb67ctdfp7hd?si=4gz3E1xWRDiMQJto3KFrJQ">
+  <a href="https://open.spotify.com/">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
   </a>
   <a href="mailto:akashathreyas@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
----
-
-## 💻 Workspace Setup
-
-OS          : Windows 10/11, Ubuntu 20.04\
-Editor      : VS Code, IntelliJ IDEA\
-Browser     : Chrome, Brave, Perplexity/Comet(still adapting)\
-Tools       : Docker, AWS, GCP, Notion, Git
-
----
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=75"/>
-</div>
-
----
-
-<details>
-<summary>📈 More Stats</summary>
-
-### 🔥 Streak Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheArchitect416&theme=dark&hide_border=true" alt="Streak Stats">
-
-### 📊 Detailed Stats
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheArchitect416&theme=github_dark" alt="Profile Details">
-
-### 💻 Most Used Languages
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheArchitect416&theme=github_dark" alt="Most Commit Language">
-
-### ⏰ Commit Time Distribution
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheArchitect416&theme=github_dark&utcOffset=8" alt="Productive Time">
-
-</details>
 
 ---
 
 ![Eugene's Coder GIF](https://wsrv.nl/?url=https://i.giphy.com/ZVik7pBtu9dNS.webp&output=gif&n=-1)
 
----
-
 <div align="center">
-  <p>💫 Show some ❤️ by starring some of my repositories!</p>
-  <p>⭐️ From <a href="https://github.com/TheArchitect416">@TheArchitect416</a></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=50"/>
+  
+  <p>💫 <i>Show some ❤️ by starring my repositories!</i></p>
 </div>
