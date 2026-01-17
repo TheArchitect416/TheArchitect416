@@ -132,9 +132,9 @@
 </div>
 
 ---
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="Eugene's Coder GIF" />
-</div>
+
+![Eugene's Coder GIF](https://wsrv.nl/?url=https://i.giphy.com/ZVik7pBtu9dNS.webp&output=gif&n=-1)
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=50"/>
   
