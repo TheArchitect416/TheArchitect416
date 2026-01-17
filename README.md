@@ -88,21 +88,21 @@
 
 ---
 
-## 📚 Akash's Bookshelf
+## 📚 Akash's Favorite Books
 
 <div align="center">
 
-| | **Book** | **Rating** |
-|:---:|:---|:---:|
-| [![A Confession](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348237118l/26244._SX50_.jpg)](https://www.goodreads.com/review/show/7898413617) | **[A Confession](https://www.goodreads.com/review/show/7898413617)**<br>*by [Leo Tolstoy](https://www.goodreads.com/author/show/128382.Leo_Tolstoy)* | ⭐⭐⭐⭐⭐ |
-| [![Poems for the Lost](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1669939508l/63905047._SY75_.jpg)](https://www.goodreads.com/review/show/7898402118) | **[Poems for the Lost...](https://www.goodreads.com/review/show/7898402118)**<br>*by [Exurb1a](https://www.goodreads.com/author/show/15241440.Exurb1a)* | ⭐⭐⭐⭐⭐ |
-| [![The Sorrows of Young Werther](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386920896l/16640._SY75_.jpg)](https://www.goodreads.com/review/show/7898397117) | **[The Sorrows of Young Werther](https://www.goodreads.com/review/show/7898397117)**<br>*by [Goethe](https://www.goodreads.com/author/show/285217.Johann_Wolfgang_von_Goethe)* | ⭐⭐⭐⭐⭐ |
-
-<a href="https://www.goodreads.com/">
-  <img src="https://s.gr-assets.com/images/widget/widget_logo.gif" alt="goodreads.com" />
-</a>
+|                                                                                                                                                                                                       | **Book**                                                                                                                                                                                                                          | **Rating** |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: |
+|                [![A Confession](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348237118l/26244._SX50_.jpg)](https://www.goodreads.com/review/show/7898413617)                | **[A Confession](https://www.goodreads.com/review/show/7898413617)**<br>_by [Leo Tolstoy](https://www.goodreads.com/author/show/128382.Leo_Tolstoy)_<br><sub>tagged: favorite</sub>                                               | ⭐⭐⭐⭐⭐ |
+| [![Poems for the Lost Because I'm Lost Too](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1669939508l/63905047._SY75_.jpg)](https://www.goodreads.com/review/show/7898402118) | **[Poems for the Lost Because I'm Lost Too](https://www.goodreads.com/review/show/7898402118)**<br>_by [Exurb1a](https://www.goodreads.com/author/show/15241440.Exurb1a)_<br><sub>tagged: favorite</sub>                          | ⭐⭐⭐⭐⭐ |
+|           [![A Stranger to Myself](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312013221l/115133._SX50_.jpg)](https://www.goodreads.com/review/show/7898400811)            | **[A Stranger to Myself](https://www.goodreads.com/review/show/7898400811)**<br>_by [Willy Peter Reese](https://www.goodreads.com/author/show/66694.Willy_Peter_Reese)_<br><sub>tagged: favorite</sub>                            | ⭐⭐⭐⭐⭐ |
+|        [![The Sorrows of Young Werther](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386920896l/16640._SY75_.jpg)](https://www.goodreads.com/review/show/7898397117)        | **[The Sorrows of Young Werther](https://www.goodreads.com/review/show/7898397117)**<br>_by [Johann Wolfgang von Goethe](https://www.goodreads.com/author/show/285217.Johann_Wolfgang_von_Goethe)_<br><sub>tagged: favorite</sub> | ⭐⭐⭐⭐⭐ |
 
 </div>
+
+<br />
+
 
 ---
 
