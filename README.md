@@ -63,7 +63,6 @@
 <p align="center">
   <img src="https://readme-stats-six-psi.vercel.app/api/top-langs/?username=TheArchitect416&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="48%" />
 </p>
-x
 </div>
 
 ---
@@ -133,9 +132,9 @@ x
 </div>
 
 ---
-
+<div align="center">
 ![Eugene's Coder GIF](https://wsrv.nl/?url=https://i.giphy.com/ZVik7pBtu9dNS.webp&output=gif&n=-1)
-
+</div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=50"/>
   
