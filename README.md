@@ -53,9 +53,6 @@
 
 <div align="center">
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=TheArchitect416&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -67,14 +64,6 @@
   <img src="https://readme-stats-six-psi.vercel.app/api/top-langs/?username=TheArchitect416&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="48%" />
 </p>
 x
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TheArchitect416&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
