@@ -52,18 +52,22 @@
 
 ---
 
-## 📊 GitHub Analytics
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TheArchitect416&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-  <br/><br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=TheArchitect416&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheArchitect416&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheArchitect416&theme=tokyonight&hide_border=true&layout=compact" height="180" alt="Top Languages" />
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=TheArchitect416&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheArchitect416&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheArchitect416&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheArchitect416&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="48%" />
+</p>
+
 </div>
 
 ### 🐍 Contribution History
@@ -114,7 +118,7 @@
   <a href="https://instagram.com/akash.m.athreyas">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://open.spotify.com/">
+  <a href="https://open.spotify.com/user/3wbvd1d65wqhgfb67ctdfp7hd">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
   </a>
   <a href="mailto:akashathreyas@gmail.com">
