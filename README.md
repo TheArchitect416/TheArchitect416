@@ -17,12 +17,12 @@
 
 </div>
 
-- 🔭 I'm currently developing **VidyaSarathi** and **Quantrol**.
-- 🌱 I'm deep-diving into **AWS Cloud Architecture** and **Java Fundamentals**.
-- 🧠 I'm interested in **Generative AI, LLMs, and Machine Learning**.
-- 🤔 I'm looking for collaboration on **DSA efficiency** and **System Design**.
-- ⚡ **Fun fact:** When I'm not coding, I write poetry. Check it out at **[@poems.with.akash](https://www.instagram.com/poems.with.akash)**.
-- 📫 Reach me at: **[akashathreyas@gmail.com](mailto:akashathreyas@gmail.com)**
+- 🔭 **Value-Driven Engineer:** Building scalable **AI solutions** and robust **Cloud Infrastructures**.
+- 🛠️ **Technical Specialist:** Focused on **Python**, **Machine Learning**, and **Generative AI**.
+- 🌱 **Continuous Learner:** Currently mastering **AWS services** and **Java Fundamentals**.
+- 🧠 **Problem Solver:** Actively improving efficiency with **Data Structures & Algorithms**.
+- 📫 **Contact:** Reach me at **akashathreyas@gmail.com**
+- ⚡ **Creative Side:** You can find my poetry here [@poems.with.akash](https://www.instagram.com/poems.with.akash)
 
 ---
 
@@ -44,11 +44,10 @@
 
 ## 🎯 Featured Projects
 
-| Project | Description | Tech Stack |
-|:---|:---|:---|
-| **VidyaSarathi** | *Current Focus.* A comprehensive educational platform/engine. | `Next.js` `AI/ML` |
-| **Quantrol** | *Current Focus.* A tool for quantitative analysis and control. | `Python` `Data` |
-| **Project 3** | *Loading...* working on deploying innovative solutions. | `Cloud` `AWS` |
+| Project             | Description                                                                                                                             | Tech Stack                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| :------------------ | :-------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **VidyaSarathi** 🔗 | **AI-Powered Academic Management System.**<br>Driving administrative efficiency through intelligent automation and resource management. | ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Quantrol** 🔗     | **Algorithmic Trading & Financial Data Engine.**<br>High-throughput pipeline for real-time stock metrics and historical trend analysis. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)                                                                                                                                                                                                      |
 
 ---
 
@@ -67,8 +66,26 @@
 <p align="center">
   <img src="https://readme-stats-six-psi.vercel.app/api/top-langs/?username=TheArchitect416&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="48%" />
 </p>
-
+x
 </div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TheArchitect416&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📊 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheArchitect416&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
 
 ### 🐍 Contribution History
 
@@ -88,7 +105,7 @@
 
 ---
 
-## 📚 Akash's Favorite Books
+## 📚 My Favorite Books
 
 <div align="center">
 
