@@ -57,7 +57,7 @@
 
 <p align="center">
   <img src="https://readme-stats-six-psi.vercel.app/api?username=TheArchitect416&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ivory-sigma.vercel.app?user=TheArchitect416&theme=tokyonight&hide_border=true&ring=EB5454" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ivory-sigma.vercel.app?user=TheArchitect416&theme=transparent&hide_border=true&ring=D4772A&background=45%2C330404%2C00063B&fire=15EBE7&dates=EBEBEB&currStreakNum=6AEB00&sideNums=E175EB&sideLabels=6952EB&currStreakLabel=B2E1EB" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
