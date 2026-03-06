@@ -18,8 +18,8 @@
 </div>
 
 - 🔭 **Value-Driven Engineer:** Building scalable **AI solutions** and robust **Cloud Infrastructures**.
-- 🛠️ **Technical Specialist:** Focused on **Python**, **Machine Learning**, and **Generative AI**.
-- 🌱 **Continuous Learner:** Currently mastering **AWS services** and **Java Fundamentals**.
+- 🛠️ **Technical Specialist:** Focused on **Cloud Fundamentals**, **Machine Learning**, and **Generative AI**.
+- 🌱 **Continuous Learner:** Currently mastering **AWS services**, **Java Fundamentals** and **Android Development with Kotlin**.
 - 🧠 **Problem Solver:** Actively improving efficiency with **Data Structures & Algorithms**.
 - 📫 **Contact:** Reach me at **akashathreyas@gmail.com**
 - ⚡ **Creative Side:** You can find my poetry here [@poems.with.akash](https://www.instagram.com/poems.with.akash)
