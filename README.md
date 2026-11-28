@@ -92,7 +92,7 @@
 ## 📊 Contribution Graph
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/39d353/TheArchitect416" alt="Contribution Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/TheArchitect416/TheArchitect416/output/activity-graph.svg" alt="Contribution Graph" width="100%" />
 </div>
 
 ---
